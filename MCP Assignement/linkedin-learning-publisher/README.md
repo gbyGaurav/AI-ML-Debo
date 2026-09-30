@@ -32,4 +32,5 @@ linkedin-learning-publisher/
 └── .gitignore
 Demo
 
-Watch Demo Video
+
+[Watch Demo Video](https://drive.google.com/file/d/1_Y8xXJgu1wAxmMjHJVc5BZOLrvolV4mj/view?usp=drivesdk)
