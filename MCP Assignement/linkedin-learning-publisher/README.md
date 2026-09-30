@@ -30,7 +30,6 @@ linkedin-learning-publisher/
 ├── pyproject.toml
 ├── requirements.txt
 └── .gitignore
-Demo
 
 
-[Watch Demo Video](https://drive.google.com/file/d/1_Y8xXJgu1wAxmMjHJVc5BZOLrvolV4mj/view?usp=drivesdk)
+Watch Demo Video => https://drive.google.com/file/d/1_Y8xXJgu1wAxmMjHJVc5BZOLrvolV4mj/view
