@@ -1,7 +1,0 @@
-user_data/
-.venv/
-venv/
-__pycache__/
-*.pyc
-*.log
-*.mcpb

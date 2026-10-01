@@ -1,3 +1,0 @@
-Today I learned about Model Context Protocol (MCP) and FastMCP in Python.
-I studied the 3 core MCP primitives: Resources for read-only data, Tools for external actions, and Prompts for reusable templates.
-I also integrated Playwright browser automation with persistent Chromium sessions to automate web workflows safely without handling raw passwords or API keys.
